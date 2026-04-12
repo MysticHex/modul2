@@ -1,0 +1,13 @@
+mk_id,kode_mk,nama_mk,sks,dosen_pengampu
+1,IF201,Basis Data,3,Dr. Bambang Hermawan
+2,IF202,Algoritma dan Struktur Data,3,Prof. Siti Nurhaliza
+3,IF203,Pemrograman Web,3,Ir. Toto Supriyanto
+4,SI201,Data Mining,4,Dr. Eka Prasetya
+5,SI202,Kecerdasan Buatan,3,Dr. Hendra Gunawan
+6,IF204,Jaringan Komputer,3,Ir. Joko Santoso
+7,SI203,Statistika,2,Dr. Lestari Wijaya
+8,IF205,Sistem Operasi,3,Ir. Maman Hermawan
+9,SI204,Manajemen Basis Data,4,
+10,IF206,Keamanan Informasi,2,Prof. Nura Wijaya
+11,SI205,Business Intelligence,3,Dr. Okta Suherman
+12,IF207,Komputasi Cloud,tiga,Ir. Prima Dwi
